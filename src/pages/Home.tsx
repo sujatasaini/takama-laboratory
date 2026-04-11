@@ -150,8 +150,7 @@ const Home: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="order-2 lg:order-1 relative h-[500px] overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=1200"
-                alt="Tokyo Metropolitan University"
+                src="/images/home/tmu.png"
                 className="absolute inset-0 w-full h-full object-cover filter grayscale opacity-60"
                 referrerPolicy="no-referrer"
               />
