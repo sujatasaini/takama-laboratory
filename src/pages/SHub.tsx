@@ -84,7 +84,7 @@ const SHub: React.FC = () => {
           <div className="absolute inset-0 opacity-40">
             <img
               src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=2000"
-              alt="sHub Collaboration"
+              alt="s-Hub Collaboration"
               className="w-full h-full object-cover filter grayscale"
               referrerPolicy="no-referrer"
             />

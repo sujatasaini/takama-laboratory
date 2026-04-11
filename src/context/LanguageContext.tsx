@@ -12,7 +12,7 @@ const translations: Record<string, Record<Language, string>> = {
   'nav.research': { en: 'Research', ja: '過去の研究一覧' },
   'nav.people': { en: 'People', ja: '研究室の人々' },
   'nav.publications': { en: 'Publications', ja: '論文・発表' },
-  'nav.shub': { en: 'sHub', ja: 'sHub' },
+  'nav.shub': { en: 'S-Hub', ja: 'S-Hub' },
   'nav.join': { en: 'Join us', ja: '研究室紹介' },
   'nav.contact': { en: 'Contact', ja: 'アクセス' },
   'footer.desc': { 
@@ -110,8 +110,8 @@ const translations: Record<string, Record<Language, string>> = {
   'pub.tech': { en: 'TECHNICAL REPORTS', ja: 'テクニカルレポート' },
 
   // SHub Page
-  'shub.title': { en: 'sHub', ja: 'sHub' },
-  'shub.subtitle': { en: 'The internal knowledge infrastructure of Takama Laboratory. Centralizing research seminars, lecture materials, and shared technical resources.', ja: '高間研究室の内部知識インフラストラクチャ。研究ゼミ、講義資料、共有技術リソースを一元化しています。' },
+  'shub.title': { en: 'S-Hub', ja: 'S-Hub' },
+  'shub.subtitle': {  en: 'S-Hub is the internal academic hub powering Takama Laboratory\'s knowledge exchange. It centralizes research seminars, technical workshops, lecture schedules, and event communications to ensure seamless collaboration across the lab.', ja: '高間研究室の内部知識インフラストラクチャ。研究ゼミ、講義資料、共有技術リソースを一元化しています。' },
   'shub.nav': { en: 'Navigation', ja: 'ナビゲーション' },
   'shub.access': { en: 'Access Status', ja: 'アクセス状況' },
   'shub.access.desc': { en: 'Restricted to lab members. Please use institutional credentials.', ja: '研究室メンバー限定。機関の認証情報を使用してください。' },
